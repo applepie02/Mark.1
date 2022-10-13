@@ -26,7 +26,7 @@ cell phone:010-xxxx-xxxx
 ### 취미
 + 휴식을 취할 때 하는 취미생활 
   + 게임(PC)
-  + Youtube 시청 ['자주보는 유튜브'](https://www.youtube.com/c/bobtailytb/videos){: .btn.btn-default target="_blank"}
+  + Youtube 시청 ['자주보는 유튜브'](https://www.youtube.com/c/bobtailytb/videos){: .btn.btn-default target="_" }
   + 음악감상
 - - -
 
