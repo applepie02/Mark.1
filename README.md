@@ -2,7 +2,7 @@
 - - -
 ## 자기소개
 
-제 이름은 <u>**구동균**</u>입니다.
+제 이름은 <span style="background-color:purple">**구동균**</span> 입니다.
 
 저의 나이는 **22**살입니다.
 
@@ -16,7 +16,7 @@ cell phone:010-xxxx-xxxx
 
 좌우명:**나는 그저 살려고 태어난게 아니라 의미있는 인생을 만들려고 태어난 것이다.**
 
-<span style="background-color:purple">보라 글씨</span> 
+<span style="background-color:purple"></span> 
 - - -
 
 ## 취미
