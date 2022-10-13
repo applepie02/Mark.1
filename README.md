@@ -18,13 +18,15 @@ cell phone:010-xxxx-xxxx
 
 좌우명:**나는 그저 살려고 태어난게 아니라 의미있는 인생을 만들려고 태어난 것이다.**
 
+<img width="25" alt="star1" src="https://user-images.githubusercontent.com/78655692/151471925-e5f35751-d4b9-416b-b41d-a059267a09e3.png">좋아하는 음식:닭튀김<img width="25" alt="star1" src="https://user-images.githubusercontent.com/78655692/151471925-e5f35751-d4b9-416b-b41d-a059267a09e3.png">
+
  
 - - -
 
 ### 취미
 + 휴식을 취할 때 하는 취미생활 
   + 게임(PC)
-  + Youtube 시청:['자주보는 유튜브'https://www.youtube.com/c/bobtailytb/videos] 
+  + Youtube 시청:['자주보는 유튜브']https://www.youtube.com/c/bobtailytb/videos
   + 음악감상
 - - -
 
@@ -40,6 +42,11 @@ cell phone:010-xxxx-xxxx
 
 - - -
 ### 앞으로의 인생 계획(목표)
+
+<details>
+<summary>여기를 눌러주세요</summary>
+<div markdown="1">       
+
 + 취업가치관
   + 저의 취업 가치관은 PAY보다는 기술입니다.
   + 기술을 배워 저의 가치가 올라가면 PAY는 자동으로 따라온다는 생각입니다.
@@ -47,6 +54,8 @@ cell phone:010-xxxx-xxxx
 + 계획
   + 중견기업으로 취직하여 기술을 배웁니다.
   + 기술을 배워 가치를 올린 뒤에 대기업으로 이직을 하고 싶습니다.
-
+ 
+</div>
+</details>
 
 
